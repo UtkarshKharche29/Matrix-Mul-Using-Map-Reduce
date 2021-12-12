@@ -1,4 +1,4 @@
-# Matrix-Multiplication-using-MapReduce
+# Matrix-Multiplication-using-MapReduce (Hadoop)
 
 ## Purpose
 The purpose of this program is using naive algorithm and advanced algorithm to implement matrix multiplication.
